@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¹³¡øÿÿÿÿ
+D
+java:S1659")Declare "rightButton" on a separate line.(ïªªùÿÿÿÿ
+C
+java:S1659"(Declare "quitButton" on a separate line.(ïªªùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¼Í‹Äøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ó¤ìœ
